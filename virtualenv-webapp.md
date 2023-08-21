@@ -94,4 +94,4 @@ mkdir templates && cd templates && sudo vi index.html
 ```
 flask run
 ```
-``open the browser with localhost:5000 or 127.0.0.1``
+``open the browser with localhost:5000``
