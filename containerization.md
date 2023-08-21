@@ -35,6 +35,7 @@ env          latest    ff7a966a00a3   9 seconds ago   128MB
 ```
 sudo docker run -p 8888:5000 -d env
 ```
+
 ``you can change the port with -p``
 
 **6. to list all containers and check if they are running:**
