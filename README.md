@@ -7,3 +7,5 @@
 **requirements.txt= what the Dockerfile will install**
 
 **app.py= my application**
+
+**dockerhub repository= the URL of my repo on the dockerhub**
